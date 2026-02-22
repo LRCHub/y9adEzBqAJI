@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ビリミリオン",
+  "base_artist": "優里",
+  "createdAt": "2026-02-22T22:40:03.988279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビリミリオン",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_ビリミリオン_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビリミリオン",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_ビリミリオン_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビリミリオン (十亿)",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_ビリミリオン_(十亿)_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビリミリオン",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/04_ビリミリオン_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビリミリオン -オーケストラアレンジver.-",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/05_ビリミリオン_-オーケストラアレンジver.-_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "優里『ビリミリオン』",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/06_優里『ビリミリオン』_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビリミリオン",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/07_ビリミリオン_Yuuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビリミリオン",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_ビリミリオン_優里.txt"
+    }
+  ]
+}
